@@ -1,0 +1,19 @@
+# dependencies
+/node_module
+
+# testing
+/coverage
+
+# production
+/dist
+/build
+
+# misc
+.DS_Store
+.package-lock.json
+
+# IDE
+.vscode
+
+# env
+.env
